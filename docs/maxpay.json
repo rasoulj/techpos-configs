@@ -1,11 +1,7 @@
 {
-  "bundleId": "tr.com.maxpay.ecom_mock",
   "bannerList": [
-    "https://rasoulj.github.io/techpos-configs/maxpay/banner5.jpg",
-    "https://rasoulj.github.io/techpos-configs/maxpay/banner1.jpg",
-    "https://rasoulj.github.io/techpos-configs/maxpay/banner2.jpg",
-    "https://rasoulj.github.io/techpos-configs/maxpay/banner3.jpg",
-    "https://rasoulj.github.io/techpos-configs/maxpay/banner4.jpg"
+    "https://rasoulj.github.io/techpos-configs/logos/bkm.jpg",
+    "https://rasoulj.github.io/techpos-configs/logos/paraf.jpg"
   ],
   "psdkEn": true
 }

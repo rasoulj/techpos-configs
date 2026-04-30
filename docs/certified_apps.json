@@ -8,15 +8,18 @@
   "actions": [
     {
       "action": "android.settings.SETTINGS",
-      "name": "Settings"
+      "name": "Settings",
+      "askPin": true
     },
     {
       "action": "android.settings.DATE_SETTINGS",
-      "name": "Date & Time"
+      "name": "Date & Time",
+      "askPin": false
     },
     {
       "action": "android.settings.WIFI_SETTINGS",
-      "name": "WIFI Settings"
+      "name": "WIFI Settings",
+      "askPin": true
     }
     
   ]

@@ -3,7 +3,11 @@
     "com.financial.sdk.demo",
     "com.kozen.quickstartks",
     "tr.com.maxpay.ecom_mock",
-    "tr.com.maxpay.tech_pos.maxpay"
+    "tr.com.maxpay.tech_pos.maxpay",
+    "com.faturamatik.pazar360",
+    "com.faturamatik.takside",
+    "com.faturamatik.tetas_pos",
+    "com.faturamatik.ode_pos",
   ],
   "actions": [
     {
@@ -18,7 +22,7 @@
     },
     {
       "action": "android.settings.WIFI_SETTINGS",
-      "name": "WIFI Settings",
+      "name": "WiFi Settings",
       "askPin": true
     }
     

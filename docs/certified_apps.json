@@ -6,6 +6,10 @@
     "tr.com.maxpay.tech_pos.maxpay"
   ],
   "actions": [
-    "android.settings.SETTINGS"
+    {
+      "action": "android.settings.SETTINGS",
+      "name": "Settings"
+    }
+    
   ]
 }

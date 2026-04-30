@@ -9,6 +9,14 @@
     {
       "action": "android.settings.SETTINGS",
       "name": "Settings"
+    },
+    {
+      "action": "android.settings.DATE_SETTINGS",
+      "name": "Date & Time"
+    },
+    {
+      "action": "android.settings.WIFI_SETTINGS",
+      "name": "WIFI Settings"
     }
     
   ]

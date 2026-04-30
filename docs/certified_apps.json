@@ -4,5 +4,8 @@
     "com.kozen.quickstartks",
     "tr.com.maxpay.ecom_mock",
     "tr.com.maxpay.tech_pos.maxpay"
+  ],
+  "actions": [
+    "android.settings.SETTINGS"
   ]
 }

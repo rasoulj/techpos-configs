@@ -1,19 +1,113 @@
 {
-  "saleApps": [
-    "com.financial.sdk.demo",
-    "com.kozen.quickstartks",
-    "tr.com.maxpay.ecom_mock",
-    "com.faturamatik.pazar360",
-    "com.faturamatik.takside",
-    "com.faturamatik.tetas_pos",
-    "com.faturamatik.ode_pos",
-    "com.faturamatik.taxi360",
-    "com.galaksity.galaksipaymanager.bitaksi",
-    "com.bitaksi.softpos"
+  "saleApplications": [
+    {
+      "id": "com.financial.sdk.demo",
+      "owner": "Kozen",
+      "developer": "Kozen",
+      "icon": "",
+      "name": "Financial Sdk Demo",
+      "url": ""
+    },
+    {
+      "id": "com.kozen.quickstartks",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "Quick Start-ks",
+      "url": ""
+    }
+,
+    {
+      "id": "tr.com.maxpay.ecom_mock",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "e-Comm Mock",
+      "url": ""
+    }
+,
+    {
+      "id": "com.faturamatik.pazar360",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "Pazar 360",
+      "url": ""
+    }
+,
+    {
+      "id": "com.faturamatik.takside",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "Taksi DE",
+      "url": ""
+    }
+,
+    {
+      "id": "com.faturamatik.tetas_pos",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "Tetas POS",
+      "url": ""
+    }
+,
+    {
+      "id": "com.faturamatik.ode_pos",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "Ode POS",
+      "url": ""
+    }
+,
+    {
+      "id": "com.faturamatik.taxi360",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "Taxi 360",
+      "url": ""
+    }
+,
+    {
+      "id": "com.galaksity.galaksipaymanager.bitaksi",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "Bi Taksi",
+      "url": ""
+    }
+,
+    {
+      "id": "com.bitaksi.softpos",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "Soft POS",
+      "url": ""
+    }
+
+
   ],
-  "paymentApps": [
-    "tr.com.maxpay.tech_pos.maxpay"
+
+  "saleApps": [],
+
+  "paymentApplications": [
+    {
+      "id": "tr.com.maxpay.tech_pos.maxpay",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "Maxpay TechPos",
+      "url": ""
+    }
+
   ],
+
+  "paymentApps": [],
+  
   "actions": [
     {
       "action": "android.settings.SETTINGS",

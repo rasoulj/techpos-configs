@@ -102,12 +102,20 @@
       "icon": "",
       "name": "Maxpay TechPos",
       "url": ""
+    },
+    {
+      "id": "tr.com.maxpay.tech_pos.pluspay",
+      "owner": "",
+      "developer": "",
+      "icon": "",
+      "name": "PlusPay TechPos",
+      "url": ""
     }
 
   ],
 
   "paymentApps": [],
-  
+
   "actions": [
     {
       "action": "android.settings.SETTINGS",

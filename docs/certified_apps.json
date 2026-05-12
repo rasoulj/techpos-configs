@@ -1,99 +1,359 @@
 {
   "saleApplications": [
     {
-      "id": "com.financial.sdk.demo",
-      "owner": "Kozen",
-      "developer": "Kozen",
+      "id": "com.faturamatik.fmpos",
+      "owner": "Faturamatik",
+      "developer": "res",
       "icon": "",
-      "name": "Financial Sdk Demo",
+      "name": "fmposApp",
       "url": ""
     },
     {
-      "id": "com.kozen.quickstartks",
-      "owner": "",
-      "developer": "",
+      "id": "com.faturamatik.sitaxi",
+      "owner": "Faturamatik",
+      "developer": "res",
       "icon": "",
-      "name": "Quick Start-ks",
+      "name": "sitaxiApp",
       "url": ""
-    }
-,
-    {
-      "id": "tr.com.maxpay.ecom_mock",
-      "owner": "",
-      "developer": "",
-      "icon": "",
-      "name": "e-Comm Mock",
-      "url": ""
-    }
-,
-    {
-      "id": "com.faturamatik.pazar360",
-      "owner": "",
-      "developer": "",
-      "icon": "",
-      "name": "Pazar 360",
-      "url": ""
-    }
-,
-    {
-      "id": "com.faturamatik.takside",
-      "owner": "",
-      "developer": "",
-      "icon": "",
-      "name": "Taksi DE",
-      "url": ""
-    }
-,
-    {
-      "id": "com.faturamatik.tetas_pos",
-      "owner": "",
-      "developer": "",
-      "icon": "",
-      "name": "Tetas POS",
-      "url": ""
-    }
-,
-    {
-      "id": "com.faturamatik.ode_pos",
-      "owner": "",
-      "developer": "",
-      "icon": "",
-      "name": "Ode POS",
-      "url": ""
-    }
-,
+    },
     {
       "id": "com.faturamatik.taxi360",
-      "owner": "",
-      "developer": "",
+      "owner": "Faturamatik",
+      "developer": "res",
       "icon": "",
-      "name": "Taxi 360",
+      "name": "taxi360App",
       "url": ""
-    }
-,
+    },
     {
       "id": "com.galaksity.galaksipaymanager.bitaksi",
-      "owner": "",
-      "developer": "",
+      "owner": "Galaksity",
+      "developer": "res",
       "icon": "",
-      "name": "Bi Taksi",
+      "name": "Sürücü Satış",
       "url": ""
-    }
-,
+    },
     {
       "id": "com.bitaksi.softpos",
-      "owner": "",
-      "developer": "",
+      "owner": "Galaksity",
+      "developer": "res",
       "icon": "",
-      "name": "Soft POS",
+      "name": "bitaksiPOSApp",
+      "url": ""
+    },
+    {
+      "id": "com.faturamatik.parsposapp",
+      "owner": "Faturamatik",
+      "developer": "res",
+      "icon": "",
+      "name": "parsposappApp",
+      "url": ""
+    },
+    {
+      "id": "com.faturamatik.kuafor360",
+      "owner": "Faturamatik",
+      "developer": "res",
+      "icon": "",
+      "name": "kuafor360",
+      "url": ""
+    },
+    {
+      "id": "com.faturamatik.takside",
+      "owner": "Faturamatik",
+      "developer": "res",
+      "icon": "",
+      "name": "takside",
+      "url": ""
+    },
+    {
+      "id": "com.faturamatik.tetas_pos",
+      "owner": "Faturamatik",
+      "developer": "res",
+      "icon": "",
+      "name": "tetas_pos",
+      "url": ""
+    },
+    {
+      "id": "com.faturamatik.ipay",
+      "owner": "Faturamatik",
+      "developer": "res",
+      "icon": "",
+      "name": "ipayApp",
+      "url": ""
+    },
+    {
+      "id": "com.faturamatik.pazarcim_pos",
+      "owner": "Faturamatik",
+      "developer": "res",
+      "icon": "",
+      "name": "pazarcim_pos",
+      "url": ""
+    },
+    {
+      "id": "com.faturamatik.pazar360",
+      "owner": "Faturamatik",
+      "developer": "res",
+      "icon": "",
+      "name": "pazar360",
+      "url": ""
+    },
+    {
+      "id": "com.faturamatik.pazarpay",
+      "owner": "Faturamatik",
+      "developer": "res",
+      "icon": "",
+      "name": "pazarpay",
+      "url": ""
+    },
+    {
+      "id": "com.faturamatik.ode_pos",
+      "owner": "Faturamatik",
+      "developer": "res",
+      "icon": "",
+      "name": "ÖdePos",
+      "url": ""
+    },
+    {
+      "id": "com.genjitsu.smartposadv",
+      "owner": "HBT",
+      "developer": "res",
+      "icon": "",
+      "name": "Smart Park",
+      "url": ""
+    },
+    {
+      "id": "com.payport.vuk",
+      "owner": "HBT",
+      "developer": "res",
+      "icon": "",
+      "name": "VUK",
+      "url": ""
+    },
+    {
+      "id": "tr.com.maxpay.tech_pos.maxpay",
+      "owner": "HBT",
+      "developer": "res",
+      "icon": "",
+      "name": "SCC",
+      "url": ""
+    },
+    {
+      "id": "com.emex.araclasatis",
+      "owner": "Karatel",
+      "developer": "res",
+      "icon": "",
+      "name": "Mobile",
+      "url": ""
+    },
+    {
+      "id": "com.alpr.alpr_app",
+      "owner": "Karatel",
+      "developer": "res",
+      "icon": "",
+      "name": "Plaka_Tanımlama",
+      "url": ""
+    },
+    {
+      "id": "com.lpr.lpr_flutter",
+      "owner": "Karatel",
+      "developer": "res",
+      "icon": "",
+      "name": "lpr_flutter",
+      "url": ""
+    },
+    {
+      "id": "com.tradevision.servora",
+      "owner": "Karatel",
+      "developer": "res",
+      "icon": "",
+      "name": "servora",
+      "url": ""
+    },
+    {
+      "id": "com.protel.waiter",
+      "owner": "Protel",
+      "developer": "res",
+      "icon": "",
+      "name": "Protel Waiter",
+      "url": ""
+    },
+    {
+      "id": "com.protel.android.simpra.basket.alpha",
+      "owner": "Protel",
+      "developer": "res",
+      "icon": "",
+      "name": "Quick Alpha",
+      "url": ""
+    },
+    {
+      "id": "com.protein.rms.pos.alpha",
+      "owner": "Protel",
+      "developer": "res",
+      "icon": "",
+      "name": "Simpra-QA",
+      "url": ""
+    },
+    {
+      "id": "com.protel.android.simpra.basket",
+      "owner": "Protel",
+      "developer": "res",
+      "icon": "",
+      "name": "Quick",
+      "url": ""
+    },
+    {
+      "id": "com.protein.rms.pos",
+      "owner": "Protel",
+      "developer": "res",
+      "icon": "",
+      "name": "Simpra",
+      "url": ""
+    },
+    {
+      "id": "com.marketpointapp",
+      "owner": "AYTEMIZ",
+      "developer": "res",
+      "icon": "",
+      "name": "MarketPointApp",
+      "url": ""
+    },
+    {
+      "id": "com.example.loyaltyreaderapp",
+      "owner": "AYTEMIZ",
+      "developer": "res",
+      "icon": "",
+      "name": "LoyaltyReaderApp",
+      "url": ""
+    },
+    {
+      "id": "com.maxpay.sample.keyinjection",
+      "owner": "AYTEMIZ",
+      "developer": "res",
+      "icon": "",
+      "name": "KeyInjection",
+      "url": ""
+    },
+    {
+      "id": "com.pluspay.kozenpos",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "POS+",
+      "url": ""
+    },
+    {
+      "id": "com.pluspay.kozenpos.staging",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "POS+ STAG",
+      "url": ""
+    },
+    {
+      "id": "com.pluspay.kozenpos.dev",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "POS+ Dev",
+      "url": ""
+    },
+    {
+      "id": "com.xbarista.mobile",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "Xbarista",
+      "url": ""
+    },
+    {
+      "id": "tr.com.maxpay.tech_pos.pluspay",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "PlusPay App",
+      "url": ""
+    },
+    {
+      "id": "com.payport.vuk",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "Payport V2",
+      "url": ""
+    },
+    {
+      "id": "com.payport.vuk.mp",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "Payport Dev",
+      "url": ""
+    },
+    {
+      "id": "com.pluspay.posplusmini.prod",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "POS+ Kasa",
+      "url": ""
+    },
+    {
+      "id": "com.menulux.pos",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "Menulux POS",
+      "url": ""
+    },
+    {
+      "id": "com.example.pos_a2a_example",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "App2App Test",
+      "url": ""
+    },
+    {
+      "id": "tr.com.ucboyutlu.eskimokasa",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "EskimoKasa",
+      "url": ""
+    },
+    {
+      "id": "com.gokcelik.pos",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "Gokcelik POS",
+      "url": ""
+    },
+    {
+      "id": "com.pluspay.posplusmini.dev",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "POS+ Kasa Dev",
+      "url": ""
+    },
+    {
+      "id": "com.example.fiyat_gor",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "gunis versiyon2",
+      "url": ""
+    },
+    {
+      "id": "com.afes.keymaker11",
+      "owner": "PLUSPAY",
+      "developer": "res",
+      "icon": "",
+      "name": "MAYA",
       "url": ""
     }
-
-
   ],
-
   "saleApps": [],
-
   "paymentApplications": [
     {
       "id": "tr.com.maxpay.tech_pos.maxpay",
@@ -110,12 +370,17 @@
       "icon": "",
       "name": "PlusPay TechPos",
       "url": ""
+    },
+    {
+      "id": "com.financial.sdk.demo",
+      "owner": "Kozen",
+      "developer": "Kozen",
+      "icon": "",
+      "name": "Financial Sdk Demo",
+      "url": ""
     }
-
   ],
-
   "paymentApps": [],
-
   "actions": [
     {
       "action": "android.settings.SETTINGS",
@@ -132,6 +397,5 @@
       "name": "WiFi Settings",
       "askPin": true
     }
-    
   ]
 }

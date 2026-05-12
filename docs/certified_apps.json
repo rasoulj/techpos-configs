@@ -1,6 +1,14 @@
 {
   "saleApplications": [
     {
+      "id": "tr.com.maxpay.m_platform",
+      "owner": "MP-LAB",
+      "developer": "res",
+      "icon": "",
+      "name": "eComm-Mock",
+      "url": ""
+    },
+    {
       "id": "com.faturamatik.fmpos",
       "owner": "Faturamatik",
       "developer": "res",

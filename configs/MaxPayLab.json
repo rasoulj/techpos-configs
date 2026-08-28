@@ -1,5 +1,9 @@
 {
   "apps": [
-    {}
-  ]
+    {
+      "id": "tr.com.maxpay.ecom_mock",
+      "name": "eComm-Mock"
+    }
+  ],
+  "default": "tr.com.maxpay.ecom_mock"
 }

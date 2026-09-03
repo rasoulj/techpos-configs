@@ -1,6 +1,6 @@
 [
   {
-    "name": "Si Taxi",
+    "name": "SiTaksi",
     "versions": [
       {
         "versionName": "1.0.0",
@@ -14,34 +14,6 @@
             "versionCode": 1,
             "url": "https://tmseu1s3.eu.aw-iot.com/1714547554672717825/app/1788166051685/20260831/e0f69b0b50ed51e67c07272de9e7a653.apk",
             "packageName": "tr.com.maxpay.mptaxi"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Pazar",
-    "versions": [
-      {
-        "versionName": "2.0.0",
-        "versionCode": 1,
-        "defaultPackage": "com.faturamatik.pazar360",
-        "apps": [
-          {
-            "appName": "Pazar",
-            "categoryName": "Retail",
-            "versionName": "2.0.45",
-            "versionCode": 45,
-            "url": "https://tmseu1s3.eu.aw-iot.com/1714547554672717825/app/1776855018458/20260422/bae4aec147d3447e78efbea55cbd326e.apk",
-            "packageName": "com.faturamatik.pazar360"
-          },
-          {
-            "appName": "TechPOS",
-            "categoryName": "Pay",
-            "versionName": "00.99",
-            "versionCode": 99,
-            "url": "https://tmseu1s3.eu.aw-iot.com/1714547554672717825/app/1780301100288/20260601/24276d838e18c2b8d094edb27f183380.apk",
-            "packageName": "tr.com.maxpay.tech_pos.maxpay"
           }
         ]
       }
